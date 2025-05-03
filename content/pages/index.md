@@ -7,7 +7,7 @@ sections:
       text: >-
         Come Home to Clean — Not More Chores. Let Us Handle the Mess, So You Can
         Rest."
-      color: text-dark
+      color: text-primary
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
