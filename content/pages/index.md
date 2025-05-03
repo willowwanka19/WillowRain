@@ -9,7 +9,9 @@ sections:
         Rest."
       color: text-primary
       type: TitleBlock
-    subtitle: ''
+    subtitle: >-
+      "Say goodbye to your second job. With our expert cleaning, your home
+      becomes a place of rest — not more work."
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
