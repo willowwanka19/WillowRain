@@ -100,7 +100,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: CALL FOR FREE ESTIMATE
       color: text-primary
       styles:
         self:
