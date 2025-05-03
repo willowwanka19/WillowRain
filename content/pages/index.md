@@ -12,10 +12,29 @@ sections:
     subtitle: >-
       "Say goodbye to your second job. With our expert cleaning, your home
       becomes a place of rest — not more work."
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      **After a long day or hectic week, cleaning your home should be the last
+      thing on your mind. Imagine stepping into a fresh, spotless space without
+      lifting a finger — that’s what Willow Rain Company delivers.**
+
+
+      Our dedicated team in St. Charles is professionally trained and backed by
+      years of experience, providing top-tier house cleaning services you can
+      rely on. Using our proven Detail-Clean Rotation System, we’ve completed
+      millions of cleans with precision — covering every room from kitchens to
+      bathrooms.
+
+
+      We stand by our work with a satisfaction guarantee: if you’re ever not
+      happy, we’ll return to make it right. Whether you need recurring service
+      or just a one-time deep clean, we’re here to help.
+
+
+      **Contact us today to schedule your free estimate and enjoy the peace of a
+      professionally cleaned home.**
+
+
+
     actions:
       - label: Get started
         altText: ''
