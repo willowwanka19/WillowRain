@@ -4,7 +4,9 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: ''
+      text: >-
+        Come Home to Clean — Not More Chores. Let Us Handle the Mess, So You Can
+        Rest."
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
