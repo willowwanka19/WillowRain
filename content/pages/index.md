@@ -7,7 +7,7 @@ sections:
       text: >-
         Key B"Come Home to Clean — Not More Chores. Let Us Handle the Mess, So
         You Can Rest."enefits
-      color: text-light
+      color: text-primary
       styles:
         self:
           textAlign: center
