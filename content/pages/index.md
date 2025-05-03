@@ -55,7 +55,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: '/images/ChatGPT Image May 2, 2025, 07_21_46 PM.png'
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
